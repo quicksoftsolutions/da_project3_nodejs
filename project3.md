@@ -1,7 +1,7 @@
 The task in the this project is to implement a web solution based on MERN stack in AWS Cloud.
 
 1. The Project Started with creation of an EC2 AWS Instant1.  
- https://github.com/quicksoftsolutions/da_project3_nodejs/blob/main/19.jpg
+ ![image](https://user-images.githubusercontent.com/41007763/186806622-de5c30ad-d673-4ec7-a809-0dab0ce47a09.png)
  
 1.
 https://github.com/quicksoftsolutions/da_project3_nodejs/blob/main/18.jpg
